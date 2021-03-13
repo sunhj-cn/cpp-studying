@@ -14,17 +14,16 @@
   * [文件尾条件](#-----)
   * [嵌套循环和二维数组](#---------)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 # cpp-studying
 Here I  record my cpp languange learning process based on a book 'c++ premier plus'
 
 # chapter5循环和关系表达式
 ## for循环
+语法如下:
   ```
-  import os
-  
-  print();
+  for (initialization; test-expression; update-expression){
+  body
+  }
   ```
   for loop
 ## 表达式和语句
