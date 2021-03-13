@@ -21,9 +21,9 @@ Here I  record my cpp languange learning process based on a book 'c++ premier pl
 
 # chapter 5 循环和关系表达式
 ## for循环
-
+  for loop
 ## 表达式和语句
-
+  experssion
 ## 递增运算符和递减运算符
 
 ## 组合赋值运算符
