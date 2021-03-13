@@ -1,5 +1,5 @@
 - [cpp-studying](#cpp-studying)
-- [chapter 5 循环和关系表达式](#chapter 5)
+- [chapter 5 循环和关系表达式](#cpp-studying)
   * [for循环](#for循环)
   * [表达式和语句](#------)
   * [递增运算符和递减运算符](#-----------)
