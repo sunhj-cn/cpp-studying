@@ -21,8 +21,11 @@ Here I  record my cpp languange learning process based on a book 'c++ premier pl
 
 # chapter5循环和关系表达式
 ## for循环
-  I think you should use an
-`<addr>` element here instead.
+  ```
+  import os
+  
+  print();
+  ```
   for loop
 ## 表达式和语句
   experssion
