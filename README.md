@@ -1,6 +1,6 @@
 - [cpp-studying](#cpp-studying)
 - [chapter 5 循环和关系表达式](#chapter5循环和关系表达式)
-  * [for循环](#for 循环)
+  * [for循环](#for循环)
   * [表达式和语句](#------)
   * [递增运算符和递减运算符](#-----------)
   * [组合赋值运算符](#-------)
@@ -20,7 +20,9 @@
 Here I  record my cpp languange learning process based on a book 'c++ premier plus'
 
 # chapter5循环和关系表达式
-## for 循环
+## for循环
+  I think you should use an
+`<addr>` element here instead.
   for loop
 ## 表达式和语句
   experssion
