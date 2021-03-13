@@ -22,10 +22,20 @@ Here I  record my cpp languange learning process based on a book 'c++ premier pl
 语法如下:
   ```
   for (initialization; test-expression; update-expression){
-  body
-  }
+       body
+       }
   ```
-  for loop
+  
+### 递增递减运算符 a++ ;++a
+   ```
+   int a = 20; 
+   int b = 20;
+   cout << "a++ = " << a++ << ";  ++b =" << b++ << endl;
+   cout << "a = " << a << ";  b =" << b << endl; 
+   ```
+   输出结果：
+   <a++ = 20; ++b = 21
+    a = 21;  b = 21>
 ## 表达式和语句
   experssion
 ## 递增运算符和递减运算符
