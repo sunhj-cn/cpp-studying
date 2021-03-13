@@ -20,7 +20,7 @@
 Here I  record my cpp languange learning process based on a book 'c++ premier plus'
 
 # chapter5循环和关系表达式
-## for循环
+## for 循环
   for loop
 ## 表达式和语句
   experssion
